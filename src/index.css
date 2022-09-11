@@ -1,0 +1,33 @@
+*,
+*::after,
+*::before {
+   box-sizing: border-box;
+}
+
+body {
+   margin: 0;
+   font-family: "Open Sans", sans-serif;
+   color: #333333;
+   font-style: normal;
+   font-size: 25px;
+   line-height: 30px;
+}
+.container {
+   width: 1200px;
+   background-color: #fff;
+   margin: 0 auto;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   margin: 0;
+}
+
+a {
+   text-decoration: none;
+}

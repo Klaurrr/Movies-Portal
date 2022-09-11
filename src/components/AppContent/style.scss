@@ -1,0 +1,13 @@
+.main__wrapp {
+   display: flex;
+   flex-direction: column;
+   height: 100vh;
+   margin: 0 auto;
+   max-width: 1230px;
+   main {
+      flex: 1 0 auto;
+   }
+   footer {
+      flex: 0 0 auto;
+   }
+}
