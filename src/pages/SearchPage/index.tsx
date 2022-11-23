@@ -37,10 +37,10 @@ const SearchPage = () => {
                   onChange={(e) => setValue(e.target.value)}
                   value={value}
                />
-               <button 
-               type="submit" 
-               className="icon-search" 
-               value="search">
+               <button
+                  type="submit"
+                  className="icon-search"
+                  value="search">
                </button>
             </form>
             <button
